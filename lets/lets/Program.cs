@@ -2,10 +2,10 @@
 
 class Sad
 {
-    static int vvod()
+    static byte vvod()
     {
-        Console.WriteLine("Введіть число, де 1 - Ножиці, 2 - Бумага, 3 - Камінь:");
-        return Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Введiть число, де 1 - Ножицi, 2 - Бумага, 3 - Камiнь:");
+        return Convert.ToByte(Console.ReadLine());
     }
 
     static int casino()
@@ -16,28 +16,28 @@ class Sad
 
     static void Main(string[] args)
     {
-        int I = vvod();
+        byte I = vvod();
         int comp = casino();
 
         // 1 - Ножиці, 2 - Бумага, 3 - Камінь
         string lud = I switch
         {
-            1 => "Ножиці",
+            1 => "Ножицi",
             2 => "Бумага",
-            3 => "Камінь",
-            _ => "Невідомо"
+            3 => "Камiнь",
+            _ => "Невiдомо"
         };
 
         string pk = comp switch
         {
-            1 => "Ножиці",
+            1 => "Ножицi",
             2 => "Бумага",
-            3 => "Камінь",
-            _ => "Невідомо"
+            3 => "Камiнь",
+            _ => "Невiдомо"
         };
 
         Console.WriteLine("tu oбрав: " + lud);
-        Console.WriteLine("PC вибрав: " + pk); 
+        Console.WriteLine("PC вибрав: " + pk);
 
 
         if (I == 1)
