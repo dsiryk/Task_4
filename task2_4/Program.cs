@@ -93,7 +93,7 @@ class Sad
     }
 static void Main(string[] args)
     {
-        double num1, num2, summa;
+        double num1, num2;
         string symv;
         Console.WriteLine("Введiть 1 число ");
         num1 = Convert.ToDouble(Console.ReadLine());
