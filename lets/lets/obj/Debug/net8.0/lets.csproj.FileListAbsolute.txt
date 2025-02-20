@@ -1,0 +1,14 @@
+C:\Users\deboo\source\repos\lets\lets\bin\Debug\net8.0\lets.exe
+C:\Users\deboo\source\repos\lets\lets\bin\Debug\net8.0\lets.deps.json
+C:\Users\deboo\source\repos\lets\lets\bin\Debug\net8.0\lets.runtimeconfig.json
+C:\Users\deboo\source\repos\lets\lets\bin\Debug\net8.0\lets.dll
+C:\Users\deboo\source\repos\lets\lets\bin\Debug\net8.0\lets.pdb
+C:\Users\deboo\source\repos\lets\lets\obj\Debug\net8.0\lets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deboo\source\repos\lets\lets\obj\Debug\net8.0\lets.AssemblyInfoInputs.cache
+C:\Users\deboo\source\repos\lets\lets\obj\Debug\net8.0\lets.AssemblyInfo.cs
+C:\Users\deboo\source\repos\lets\lets\obj\Debug\net8.0\lets.csproj.CoreCompileInputs.cache
+C:\Users\deboo\source\repos\lets\lets\obj\Debug\net8.0\lets.dll
+C:\Users\deboo\source\repos\lets\lets\obj\Debug\net8.0\refint\lets.dll
+C:\Users\deboo\source\repos\lets\lets\obj\Debug\net8.0\lets.pdb
+C:\Users\deboo\source\repos\lets\lets\obj\Debug\net8.0\lets.genruntimeconfig.cache
+C:\Users\deboo\source\repos\lets\lets\obj\Debug\net8.0\ref\lets.dll
